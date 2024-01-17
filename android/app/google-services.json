@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "432727535653",
+    "project_id": "fb-auth-bloc-f3bcc",
+    "storage_bucket": "fb-auth-bloc-f3bcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432727535653:android:f5c2dd9381a2e684428fcc",
+        "android_client_info": {
+          "package_name": "com.kratapp.fb_auth_bloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj8XBn3Hn32uKIq_tdvSf3qBsDeDDQchM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
