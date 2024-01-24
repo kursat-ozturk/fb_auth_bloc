@@ -1,16 +1,16 @@
 # fb_auth_bloc
 
-A new Flutter project.
+## Firebase Authentication App: Cubit + Bloc + StreamSubscription
 
-## Getting Started
+## Packages
+- firebase_core
+- firebase_auth
+- cloud_firestore
+- flutter_bloc
+- equatable
+- validators
 
-This project is a starting point for a Flutter application.
+## App:
 
-A few resources to get you started if this is your first Flutter project:
+![fb_auth_bloc](https://github.com/kursat-ozturk/fb_auth_bloc/assets/69029656/900db3bb-e3f8-4778-a0d1-74f9862ccda2)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
